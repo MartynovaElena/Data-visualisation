@@ -15,6 +15,6 @@
 ## Project installation
 
 ```
-git clone https://github.com/
+git clone https://github.com/MartynovaElena/Data-visualisation
 ```
  
