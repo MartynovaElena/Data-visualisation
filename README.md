@@ -1,4 +1,4 @@
-# <center> Итoговое задание модуль 13</center>
+# <center> Final task module 13</center>
 
 ## Contents
 1. [Description](#description)
