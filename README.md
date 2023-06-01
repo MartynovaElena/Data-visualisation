@@ -22,4 +22,4 @@ https://nbviewer.org/github/MartynovaElena/Data-visualisation/blob/main/Data%20v
 git clone https://github.com/MartynovaElena/Data-visualisation
 ```
  
-:arrow_up:[to contects](https://github.com/MartynovaElena/Data-visualisation/blob/main/README.md#Contents)
+:arrow_up:[ to contents](https://github.com/MartynovaElena/Data-visualisation/blob/main/README.md#Contents)
